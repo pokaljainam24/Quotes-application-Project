@@ -1,7 +1,5 @@
 # Quotes-application-Project
 
-# Quotes-application-Project
-
 ## Summary
 A simple web application that displays inspiring quotes by famous individuals, along with their portraits and birthplaces. The app is built with HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
