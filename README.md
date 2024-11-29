@@ -15,7 +15,7 @@ A simple web application that displays inspiring quotes by famous individuals, a
 - **JavaScript**: For dynamic rendering of quotes.
 
 ## Visit Page
-[Quotes Application Project](https://quotes-application-247d5b.netlify.app)
+You can try the live Page. ====> [Quotes Application Project](https://quotes-application-247d5b.netlify.app)
 
 ## Demo
 ![Screenshot 2024-11-20 123034](https://github.com/user-attachments/assets/33e828af-089d-4631-a8bf-71b5711cd24a)
